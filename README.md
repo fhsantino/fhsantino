@@ -1,4 +1,4 @@
-**Olá :)**
+## **Olá :)**
 
 Sou estudante do 10º semestre de Engenharia de Controle e Automação na Unesp pela Universidade Estadual Paulista "Júlio de Mesquita Filho", Instituto de Ciência e Tecnologia de Sorocaba. 
 Já terminei todas as matérias do curso e atualmente estou realizando projetos de Data Science para aprimorar minhas habilidades enquanto busco uma oportunidade na área.
