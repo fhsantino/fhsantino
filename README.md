@@ -8,7 +8,7 @@ No momento, atuo na área de Consultoria focada em Data Science da Visagio, trab
 
 Atuei como estagiário na Siemens Healthineers, sendo uma posição com o objetivo de desenvolver projetos para o processo de transformação digital da empresa. Responsável pelo projeto de automatização da precificação de contratos da empresa na américa latina. Realização de análise dos dados do histórico de faturamento da empresa a fim de obter indicadores (KPI) e viabilizar a implementação do projeto no setor de Offer to Order.
 
-No âmbito das atividades extra curriculares da universidade, atuo como professor de física voluntário no cursinho comunitário do campus, oferecendo ensino gratuito para cerca de 70 alunos e também atuei como coordenador de projeto na instituição Baja SAE do câmpus, executando atividades relacionadas ao acompanhamento da evolução do escopo, análises de viabilidade, instrução aos membros e projeto de componentes. 
+No âmbito das atividades extra curriculares da universidade, fui professor de física voluntário no cursinho comunitário do campus, oferecendo ensino gratuito para cerca de 70 alunos e também atuei como coordenador de projeto na instituição Baja SAE do câmpus, executando atividades relacionadas ao acompanhamento da evolução do escopo, análises de viabilidade, instrução aos membros e projeto de componentes. 
 
 ## Cursos 
 Participei do curso Ciência de Dados na prática, da VAI Academy, e possuo conhecimentos em: Pacotes para leitura e escrita de dados, análise exploratória (E.D.A.), Feature Engineering, aprendizado de máquina, estatística e visualizações de dados. Principais bibliotecas: Numpy, Pandas, Scikit Learn, Tensor Flow e Pandas Profiling.
