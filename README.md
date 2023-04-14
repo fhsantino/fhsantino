@@ -1,17 +1,14 @@
-## **Olá :)**
+## **Hey :)**
 
-Estou cursando Engenharia de Controle e Automação na Unesp pela Universidade Estadual Paulista "Júlio de Mesquita Filho", Instituto de Ciência e Tecnologia de Sorocaba. 
-Já terminei todas as matérias do curso e atualmente estou realizando projetos de Data Science para aprimorar minhas habilidades na área.
+## Work experience
+BEES Data Sr. Analyst and member of the Business Intelligence team, with the objective of getting data, analyzing and generating insights for the customer success product (BEES Care), present in 17 countries.
 
-## Experiências 
-No momento, atuo na área de Consultoria focada em Data Science da Visagio, trabalhando em um banco de grande porte com foco na análise de dados da área de adquirência da empresa. O projeto é focado em obter insights para o setor de precificação através do uso de dados. Também analiso as bases de Open Finance para o desenvolvimento de soluções personalizadas para o cliente. Utilizo ferramentas como SAS, SQL, Python e Tableau para o desenvolvimento de Dashboards.
+Support in decision making through quantitative and qualitative data, helping product, migration and operations teams to: Finding improvement points in products; Reducing costs and increasing efficiency in operations and defining criteria for the expansion of pilot projects. Monitoring the reliability and stability of solutions, through the use of solutions such as Amplitude or Mode analytics, addressing recommendations.
 
-Atuei como estagiário na Siemens Healthineers, sendo uma posição com o objetivo de desenvolver projetos para o processo de transformação digital da empresa. Responsável pelo projeto de automatização da precificação de contratos da empresa na américa latina. Realização de análise dos dados do histórico de faturamento da empresa a fim de obter indicadores (KPI) e viabilizar a implementação do projeto no setor de Offer to Order.
+Previously, I worked in the Data Science consulting area at Visagio, working on a project focused on business data analysis in order to obtain indicators for improvements in the pricing area of a big Brazilian bank. I applied knowledge in SAS, SQL, Python and Tableau to develop Dashboards.
 
-No âmbito das atividades extra curriculares da universidade, fui professor de física voluntário no cursinho comunitário do campus, oferecendo ensino gratuito para cerca de 70 alunos e também atuei como coordenador de projeto na instituição Baja SAE do câmpus, executando atividades relacionadas ao acompanhamento da evolução do escopo, análises de viabilidade, instrução aos membros e projeto de componentes. 
+Experienced in Python, with emphasis in data analysis and manipulation: Packages for reading and writing data, exploratory analysis (E.D.A.), Feature Engineering, machine learning, statistics and data visualizations. Main libraries: Numpy, Pandas, Scikit Learn, Tensor Flow and Pandas Profiling. Knowledge in C, C++, Java and Python programming languages as well as advanced Excel, Power BI and Tableau.
 
-## Cursos 
-Participei do curso Ciência de Dados na prática, da VAI Academy, e possuo conhecimentos em: Pacotes para leitura e escrita de dados, análise exploratória (E.D.A.), Feature Engineering, aprendizado de máquina, estatística e visualizações de dados. Principais bibliotecas: Numpy, Pandas, Scikit Learn, Tensor Flow e Pandas Profiling.
 
 <!---
 fhsantino/fhsantino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
